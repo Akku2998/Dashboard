@@ -57,14 +57,7 @@ export function Table() {
   return (
     <div className="bg-white shadow rounded-lg p-6">
       <div className="flex justify-between items-center mb-4">
-        {/* <select className="border p-2 rounded">
-          <option>MONTHLY</option>
-          <option>YEARLY</option>
-        </select> */}
         <h1>Employees</h1>
-        {/* <button className="bg-blue-500 text-white p-2 rounded-lg">
-          Download File
-        </button> */}
         <form className="w-96 px-4">
           <div className="relative">
             <div className="absolute top-0 bottom-0 w-6 h-6 my-auto text-gray-400 left-3">

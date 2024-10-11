@@ -1,4 +1,3 @@
-// import { Advertisements, Articles, Categories, Stories } from "@/svgs";
 import { SimpleCard } from "..";
 
 const simpleCards = [
@@ -7,27 +6,21 @@ const simpleCards = [
     number: 10,
     title: "Newly Hired People",
     description: "Increase since last quarter",
-    // icon: <Articles />,
   },
   {
     id: 2,
     number: 251,
     title: "Active People",
     description: "Increase since last quarter",
-    // icon: <Categories />,
   },
   {
     id: 3,
 
     title: "New hires",
-    // description: "4,193 New Updates",
-    // icon: <Stories />,
   },
   {
     id: 4,
     title: "Salary range of employees",
-    // description: "928 New Updates",
-    // icon: <Advertisements />,
   },
 ];
 

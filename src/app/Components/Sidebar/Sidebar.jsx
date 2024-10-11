@@ -13,7 +13,7 @@ export function Sidebar({ children }) {
   return (
     <>
       <aside className="h-full">
-        <nav className="h-full flex flex-col bg-primary text-white border-r shadow-sm">
+        <nav className="h-full flex flex-col bg-primary  text-white border-r shadow-sm">
           <div className="p-4 pb-2 flex justify-between items-center">
             <Image
               src={logoImage}
